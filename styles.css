@@ -1,0 +1,25 @@
+body {
+    margin: 20px;
+    font-family: 'Gill Sans', sans-serif;
+}
+
+.avatar {
+    width: 150px;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+}
+
+.card {
+    text-shadow: 1px 1px #e0e1dd;
+    box-shadow: rgba(0, 0, 0, 0.15) 3px 3px 2.6px;
+    border-radius: 10px;
+    width: 400px;
+    margin: 0px auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: #fdf0d5;
+    color: #0d1b2a;
+    border-bottom: 6px solid #0d1b2a;
+}
